@@ -1,4 +1,7 @@
-### Hello ~ 👋
+### Hello 👋, here is Dennis~
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zbigboss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbigboss&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 - 🌱 I’m currently learning JavaScript, Vue, Node.js, etc. 
 - ✨ I'm currently learning and share on my blog.
@@ -7,6 +10,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 
 ### Languages:
